@@ -1,3 +1,5 @@
+// Stock Market Portfolio App By Mickey Pavier-Tite
+
 const express = require('express');
 const app = express();
 const exphbs = require('express-handlebars');
